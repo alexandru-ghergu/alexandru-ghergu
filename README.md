@@ -1,23 +1,35 @@
-### Hello, I'm Alexandru Ghergu 🧑🏻‍💻
+<div id="header" align="center">
+  <img src="https://media.tenor.com/I3RjM4xQO0kAAAAi/monitors-typing.gif" width="150"/>
+  <h3>Hello, I'm Alexandru Ghergu 🧑🏻‍💻</h3>
+  <p>I'm a 23 y.o developer based in Romania, and i'm passionate about crafting digital experiences.</p>
+    <div id="socials">
+        <a href="https://instagram.com/alexandru.ghergu">
+        <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white">
+        </a>
+        <img src="https://komarev.com/ghpvc/?username=alexandru-ghergu&style=flat-square&color=blue">
+    </div>
+</div>
 
-I'm a 23 y.o developer based in Romania, and i'm passionate about crafting digital experiences. 
- 
-## 📱 Socials
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/Fede_Barby01)
 
-## 📦 Toolbox
+## 🛠️ Languages & Tools :
 
 **Frontend Development:** 
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white)
+![HTML](https://img.shields.io/badge/html-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/css-%231572B6.svg?style=flat-square&logo=css3&logoColor=white)
 
 **Backend Development:** ⛔
 
 **Testing:** ⛔
 
 **Others:** ⛔
- 
-## ✨ Fun Facts
+
+## 📊 My Stats :
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=alexandru-ghergu&theme=java-dark)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alexandru-ghergu&layout=compact&theme=great-gatsby&border_color=FFA500)
+
+## ✨ Fun Facts :
 
 - As a kid, i was a nerd into a lot of games. 🤓
 - I like to build and repair computers.
