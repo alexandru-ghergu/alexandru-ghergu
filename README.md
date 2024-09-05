@@ -16,6 +16,7 @@
 **Frontend Development:** 
 ![HTML](https://img.shields.io/badge/html-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/css-%231572B6.svg?style=flat-square&logo=css3&logoColor=white)
+![Sass](https://img.shields.io/badge/Sass-C69?logo=sass&logoColor=fff)](#)
 
 **Backend Development:** ⛔
 
